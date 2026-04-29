@@ -3,7 +3,7 @@
 # 🧠 Stroke Risk Analysis: Deep Learning Edition
 ### *Bridging Clinical Expertise and Artificial Intelligence*
 
-[![Streamlit App](https://stroke-risk-analysis-nn-neygflfkrg7qqdfumtevcb.streamlit.app/)](YOUR_DEPLOYED_LINK_HERE)
+(https://stroke-risk-analysis-nn-neygflfkrg7qqdfumtevcb.streamlit.app/)
 
 ## 📋 Project Overview
 As a **Medical Laboratory Science** graduate transitioning into **AI & Data Science**, I developed this application to transform clinical data into actionable insights. Unlike standard binary classifiers, this tool uses a **Neural Network (Multi-Layer Perceptron)** to calculate stroke probability and provides **Clinical Reasoning** for its predictions.
